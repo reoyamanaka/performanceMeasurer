@@ -1,4 +1,4 @@
-import time
+import timeit
 from functionA import functionA
 
 processPerformance = {"functionA": 0}
