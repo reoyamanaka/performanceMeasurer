@@ -87,7 +87,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/reoyamanaka/performanceMeasurer.git
    ```
-2. Replace sample function in `functionA.py` with any function that should be tested in terms of performance.
+2. Replace sample functions in `functionA.py` and `functionB.py` with functions you would like to compare performance-wise.
 
 
 <!-- USAGE -->
